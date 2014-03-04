@@ -1,0 +1,4 @@
+city name="billing[city]" id="billing:city"
+state name="billing[region_id]" id="billing:region_id"
+zip code name="billing[postcode]" id="billing:postcode"
+country name="billing[country_id]" id="billing:country_id"
